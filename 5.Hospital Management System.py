@@ -49,7 +49,7 @@ class Hospital:
             patient.display()
 
 
-# Main program
+
 hospital = Hospital()
 
 while True:
